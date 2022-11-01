@@ -8,8 +8,7 @@ subtitle: Data Scientist. Software Engineer. Husband. Geek.
 
 ### Test commit 2
 
-### My Education
-I have a B.Sc in Software Engineering (with honors) and an M.Sc in Information Systems Engineering (fast track), both from Ben Gurion University in Israel.
+### Test commit 3
 
 ### My Hobbies
 I enjoy running, hiking, swimming, playing the guitar, and I also do some Improv theater :)
