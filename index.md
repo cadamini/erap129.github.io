@@ -10,8 +10,6 @@ subtitle: Data Scientist. Software Engineer. Husband. Geek.
 
 ### Test commit 3
 
-### My Hobbies
-I enjoy running, hiking, swimming, playing the guitar, and I also do some Improv theater :)
+### Test commit 4 
 
-![Butterfly photo](/assets/img/butterfly.jpeg)
-*A butterfly posing in the French Alps. Photo by me.*  
+Check out [https://cadamini.github.io/erap129.github.io/blogposts/](https://cadamini.github.io/erap129.github.io/blogposts/).
